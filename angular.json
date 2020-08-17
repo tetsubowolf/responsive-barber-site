@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "responsive-barber-site"
+    }
+  },
+  "defaultProject": "responsive-barber-site",
+  "cli": {
+    "analytics": "84ac4f35-fc16-465b-980e-389d8bef11e4"
+  }
 }
