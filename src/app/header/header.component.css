@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend+Zetta&family=Montserrat&family=Open+Sans+Condensed:wght@300&family=Red+Rose&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+}
+html{
+    margin: 0;
+    padding:0;
+}
+header{
+    background-color: #8a0c0c;
+    color: #f8f8ff;
+    margin-bottom: .7em;
+    margin-top: .7em;
+    font-family: 'Lexend Zetta', sans-serif;
+    text-align: center;
+    font-weight: bolder;
+    width: 100%;
+}
+h1{
+    padding-top: .5em;
+}
+ul{
+    padding-bottom: .5em;
+}
+li{
+    display: inline;
+    margin-left: .5em;
+    margin-right: .5em;
+   
+}
+a{
+    color: #f8f8ff;
+    display: inline;
+}

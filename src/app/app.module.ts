@@ -7,7 +7,6 @@ import { HeaderComponent } from './header/header.component';
 import { HomeComponent } from './home/home.component';
 import { ServicesComponent } from './services/services.component';
 import { ContactComponent } from './contact/contact.component';
-import { BgPictureComponent } from './bg-picture/bg-picture.component';
 import { FooterComponent } from './footer/footer.component';
 
 @NgModule({
@@ -17,7 +16,6 @@ import { FooterComponent } from './footer/footer.component';
     HomeComponent,
     ServicesComponent,
     ContactComponent,
-    BgPictureComponent,
     FooterComponent
   ],
   imports: [
